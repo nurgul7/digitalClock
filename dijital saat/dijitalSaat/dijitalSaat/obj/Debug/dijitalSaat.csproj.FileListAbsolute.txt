@@ -1,0 +1,11 @@
+C:\Users\NURGÜL\Desktop\uygulama geliştirerek C# öğrenin\dijital saat\dijitalSaat\dijitalSaat\bin\Debug\dijitalSaat.exe.config
+C:\Users\NURGÜL\Desktop\uygulama geliştirerek C# öğrenin\dijital saat\dijitalSaat\dijitalSaat\bin\Debug\dijitalSaat.exe
+C:\Users\NURGÜL\Desktop\uygulama geliştirerek C# öğrenin\dijital saat\dijitalSaat\dijitalSaat\bin\Debug\dijitalSaat.pdb
+C:\Users\NURGÜL\Desktop\uygulama geliştirerek C# öğrenin\dijital saat\dijitalSaat\dijitalSaat\obj\Debug\dijitalSaat.csproj.AssemblyReference.cache
+C:\Users\NURGÜL\Desktop\uygulama geliştirerek C# öğrenin\dijital saat\dijitalSaat\dijitalSaat\obj\Debug\dijitalSaat.csproj.SuggestedBindingRedirects.cache
+C:\Users\NURGÜL\Desktop\uygulama geliştirerek C# öğrenin\dijital saat\dijitalSaat\dijitalSaat\obj\Debug\dijitalSaat.Form1.resources
+C:\Users\NURGÜL\Desktop\uygulama geliştirerek C# öğrenin\dijital saat\dijitalSaat\dijitalSaat\obj\Debug\dijitalSaat.Properties.Resources.resources
+C:\Users\NURGÜL\Desktop\uygulama geliştirerek C# öğrenin\dijital saat\dijitalSaat\dijitalSaat\obj\Debug\dijitalSaat.csproj.GenerateResource.cache
+C:\Users\NURGÜL\Desktop\uygulama geliştirerek C# öğrenin\dijital saat\dijitalSaat\dijitalSaat\obj\Debug\dijitalSaat.csproj.CoreCompileInputs.cache
+C:\Users\NURGÜL\Desktop\uygulama geliştirerek C# öğrenin\dijital saat\dijitalSaat\dijitalSaat\obj\Debug\dijitalSaat.exe
+C:\Users\NURGÜL\Desktop\uygulama geliştirerek C# öğrenin\dijital saat\dijitalSaat\dijitalSaat\obj\Debug\dijitalSaat.pdb
